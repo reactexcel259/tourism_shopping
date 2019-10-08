@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0;fill: #ffffff } 
+		.shp1 { fill: #afb4c0 } 
+	</style>
+	<g id="-e-icon/phone number">
+		<path id="Rectangle" class="shp0" d="M1,17h16v-16h-16z" />
+		<path id="Path" class="shp1" d="M2.83,1.3l-1.35,1.3c-3.21,3.27 10.65,17.18 13.92,13.92l1.35,-1.35c0.34,-0.34 0.34,-0.96 0,-1.35l-2.31,-2.31c-0.39,-0.34 -1.01,-0.34 -1.35,0l-1.35,1.35c-2.54,-1.58 -4.73,-3.77 -6.54,-6.59l1.3,-1.3c0.39,-0.39 0.39,-1.01 0,-1.35l-2.31,-2.31c-0.39,-0.39 -0.96,-0.39 -1.35,0z" />
+	</g>
+</svg>

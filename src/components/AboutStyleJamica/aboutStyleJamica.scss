@@ -1,0 +1,43 @@
+.about-style-zamica-container{
+text-align: center;
+img{
+    height: 100px;
+    margin: 3% 0;
+    max-width: 100%;
+}
+.add-to-fav{
+    height: unset;
+    margin: 3% 0;
+    max-width: 100%;
+}
+.descr{
+    word-break: break-word;
+}
+.artists{
+    background-image: url("/static/media/bg_crafts.9c61935b.png");
+    text-align: center;
+    padding: 20px 0;
+    .events-list{
+        min-height: 200px;
+        .event-detail{
+            span{
+                padding-right: 10px;
+            }
+            div{
+                text-align: left;
+                padding: 30px;  
+            }
+            .artistName, .shopLink,.description{
+                display: flex;
+                padding: 0;        
+                a{
+                    word-break: break-word;
+                }       
+            }
+        }
+        &:not(:last-of-type){
+            margin-bottom: 30px;
+        }
+    }
+}
+}
